@@ -1,4 +1,4 @@
-package com.mycompany.labworkfirst;
+package ru.mephi.labwork1;
 
 import controller.MainController;
 import model.DataModel;
