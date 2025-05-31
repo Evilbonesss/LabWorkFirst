@@ -1,4 +1,4 @@
-package ru.mephi.labwork1;
+package ru.mephi.LabWorkFirst;
 
 import controller.MainController;
 import model.DataModel;
